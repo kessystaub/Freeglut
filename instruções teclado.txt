@@ -1,0 +1,25 @@
+ROTAÇÃO:
+
+--> Direcional para cima: rotaciona verticalmente para cima
+--> Direcional para baixo: rotaciona verticalmente para baixo
+--> Direcional para esquerda: rotaciona horizontalmente para a esquerda
+--> Direcional para direita: rotaciona horizontalmente para a direita
+--> Left Ctrl: rotaciona ao redor de si mesmo para a esquerda
+--> Left Shift: rotaciona ao redor de si mesmo para a direita
+
+TRANSLAÇÃO:
+--> w: para cima
+--> a: para a esquerda
+--> s: para baixo
+--> d: para direita
+--> z: para trás
+--> x: para frente
+
+ESCALA:
+--> +: aumenta 
+--> -: diminui
+
+ILUMINAÇÃO (para ativar e desativar as luzes):
+--> 0: difusa
+--> 1: especular
+--> 2: ambiente
